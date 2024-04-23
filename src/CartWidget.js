@@ -5,7 +5,7 @@ const CartWidget = () => {
   return (
     <div className="cart-widget">
       <FaShoppingCart />
-      <span className="badge">5</span> {/* Número hardcodeado */}
+      <span className="badge">5</span> {}
     </div>
   );
 }
